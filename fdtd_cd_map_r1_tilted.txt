@@ -2,7 +2,7 @@
 # hole tilting angle=22.5deg
 # We are at normal incidence, theta angle=0deg
 # mesh accuracy = 4 , dx=1e-08, dy=1e-08, dz=1e-08
-# lambda(nm), v , R_te, T_te, A_te, R_tm, T_tm, A_tm, R_cd, T_cd, A_cd, R_rcp, T_rcp, A_rcp, R_lcp, T_lcp, A_lcp
+# lambda(nm), R1 , R_te, T_te, A_te, R_tm, T_tm, A_tm, R_cd, T_cd, A_cd, R_rcp, T_rcp, A_rcp, R_lcp, T_lcp, A_lcp
 400 100 0 0 0 0 0 0 0.0220907 0.168755 0.135167 0.534486 0.2627 0.160863 0.558634 0.186838 0.211147
 402 100 0 0 0 0 0 0 0.0227458 0.153113 0.124325 0.534992 0.266352 0.158134 0.559896 0.195619 0.203036
 404 100 0 0 0 0 0 0 0.0246722 0.141191 0.112679 0.53538 0.270212 0.155147 0.562466 0.203349 0.194551
